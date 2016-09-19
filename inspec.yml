@@ -1,8 +1,8 @@
 name: inspec-workshop
-title: CIS CentOS 6 InSpec Workshop
-maintainer: Annie Hedgpeth
-copyright: Annie Hedgpeth
-copyright_email: annie.hedgpeth@gmail.com
+title: CiS Centos 6 inspec Workshop
+maintainer: Emilia Momotko
+copyright: Emilia Momotko
+copyright_email: emilia.momotko@Lingaro.com
 license: All Rights Reserved
-summary: An exercise in building a CentOS profile by writing the controls with InSpec
+summary: An InSpec Compliance Profile
 version: 0.1.0
